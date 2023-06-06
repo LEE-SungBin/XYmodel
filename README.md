@@ -1,0 +1,1 @@
+Edwards-Anderson potts model
